@@ -1,0 +1,6 @@
+[submodule "savings-marketplace"]
+	path = savings-marketplace
+	url = git@github.com:ProyectoFinal2023/savings-marketplace.git
+[submodule "Prevencion-Caida-Planes"]
+	path = Prevencion-Caida-Planes
+	url = git@github.com:ProyectoFinal2023/Prevencion-Caida-Planes.git
